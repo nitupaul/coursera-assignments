@@ -1,0 +1,80 @@
+.text-center
+{
+	color: blue;
+	 font-size: 80px;
+ font-family: 'Oxygen', sans-serif;
+}
+#header-nav
+{
+	background-color:#B0C4DE;
+	border-radius: 0;
+	border: 0;
+	height: 100px;
+
+		 font-family: 'Oxygen', sans-serif;
+
+}
+
+.navbar-brand 
+{
+	font-size: 35px;
+	text-transform: uppercase;	
+	font-weight: bold;
+	color:#003153;
+	text-decoration-color: #003153;
+	font-color:#003153;
+	padding-top: 30px;
+	font-family: 'Oxygen', sans-serif;
+	
+	
+}
+#nav-list{
+	margin-top: 10px;
+	size: 20px;
+		font-family: 'Oxygen', sans-serif;
+}
+#nav-list a:hover
+{
+	background-color: blue;
+
+}
+#nav-list a
+{
+	color: green;
+	background-color: cyan;
+		text-align: center;
+		font-weight: bold;
+		font-size: 20px;
+
+		font-family: 'Oxygen', sans-serif;
+	}
+		
+.navbar-header button.navbar-toggle,.navbar-header .icon-bar
+{
+	border: 1px solid black;
+}
+.rally
+{
+	background-color:#BDA0CB;
+}
+.para{
+	size: 40px;
+
+	font-size: 40px;
+	color: brown;
+	font-weight: bold;
+	font-style:oblique;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+h1.text-center
+{
+	font-size: 50px;
+		font-family: 'Oxygen',sans-serif;
+	color: orange;
+	font-weight: bolder;
+}
+section
+{
+	height: 1000px;
+}
